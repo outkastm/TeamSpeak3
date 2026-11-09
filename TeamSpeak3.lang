@@ -1,0 +1,181 @@
+[en-us]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "Use crystal clear sound to communicate with your team mates cross-platform with military-grade security, lag-free performance & unparalleled reliability and uptime."
+release_note = "Bundles TeamSpeak v3.13.9 packed from source"
+important = "Mandatory TeamSpeak 3 End User License Agreement (EULA) acceptance prior to software use."
+
+[zh-cn]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "使用水晶般清晰的声音与跨平台团队成员沟通，具备军工级安全性、无延迟性能以及无可比拟的可靠性和运行时间。"
+release_note = "打包自源码的 TeamSpeak v3.13.9"
+important = "使用软件前必须接受 TeamSpeak 3 最终用户许可协议 (EULA)。"
+
+[zh-hk]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "使用水晶般清晰的聲音與跨平台團隊成員溝通，具備軍規級安全性、無延遲效能以及無可比擬的可靠性與運作時間。"
+release_note = "打包自原始碼的 TeamSpeak v3.13.9"
+important = "使用軟件前必須接受 TeamSpeak 3 最終用戶許可協議 (EULA)。"
+
+[ja-jp]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "軍用レベルのセキュリティ、ラグのないパフォーマンス、 theoretical and practical に比類のない信頼性と稼働率を備え、クリアな音質でクロスプラットフォームのチームメイトと通信できます。"
+release_note = "ソースからビルドされた TeamSpeak v3.13.9 を同梱"
+important = "ソフトウェアを使用する前に、TeamSpeak 3 エンドユーザーライセンス同意書 (EULA) への同意が必須です。"
+
+[de-de]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "Nutzen Sie kristallklaren Sound, um mit Ihren Teamkollegen plattformübergreifend zu kommunizieren – mit Sicherheit auf Militärniveau, verzögerungsfreier Leistung und unvergleichlicher Zuverlässigkeit."
+release_note = "Enthält TeamSpeak v3.13.9, aus dem Quellcode gepackt"
+important = "Zwingende Zustimmung zur TeamSpeak 3 Endbenutzer-Lizenzvereinbarung (EULA) vor der Nutzung der Software erforderlich."
+
+[fr-fr]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "Bénéficiez d'un son cristallin pour communiquer avec vos coéquipiers multiplateformes grâce à une sécurité de niveau militaire, des performances sans latence et une fiabilité exceptionnelle."
+release_note = "Intègre TeamSpeak v3.13.9 empaqueté depuis les sources"
+important = "Acceptation obligatoire du contrat de licence utilisateur final (EULA) de TeamSpeak 3 avant d'utiliser le logiciel."
+
+[it-it]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "Utilizza un audio cristallino per comunicare con i tuoi compagni di squadra multipiattaforma con sicurezza di livello militare, prestazioni senza ritardi e una affidabilità ineguagliabile."
+release_note = "Include TeamSpeak v3.13.9 pacchettizzato dal sorgente"
+important = "Accettazione obbligatoria dell'Accordo di Licenza per l'Utente Finale (EULA) di TeamSpeak 3 prima dell'uso del software."
+
+[es-es]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "Utilice un sonido nítido para comunicarse con sus compañeros de equipo multiplataforma con seguridad de nivel militar, rendimiento sin retrasos e incomparable fiabilidad."
+release_note = "Incluye TeamSpeak v3.13.9 empaquetado desde el código fuente"
+important = "Aceptación obligatoria del Acuerdo de Licencia de Usuario Final (EULA) de TeamSpeak 3 antes del uso del software."
+
+[ko-kr]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "군사 등급의 보안, 지연 없는 성능, 탁월한 신뢰성 및 가동 시간을 바탕으로 크로스 플랫폼 팀원들과 선명한 음성으로 소통하세요."
+release_note = "소스에서 패키징된 TeamSpeak v3.13.9 포함"
+important = "소프트웨어 사용 전 TeamSpeak 3 최종 사용자 라이선스 동의서(EULA) 동의가 필수입니다."
+
+[hu-hu]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "Használjon kristálytiszta hangot a csapattársaival való platformok közötti kommunikációhoz katonai szintű biztonsággal, akadásmentes teljesítménnyel és páratlan megbízhatósággal."
+release_note = "Forrásból csomagolt TeamSpeak v3.13.9 verziót tartalmaz"
+important = "A szoftver használata előtt a TeamSpeak 3 Végfelhasználói Licencszerződés (EULA) kötelező elfogadása szükséges."
+
+[pl-pl]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "Korzystaj z krystalicznie czystego dźwięku do komunikacji z członkami zespołu na różnych platformach z wojskową klasą bezpieczeństwa, brakiem opóźnień i niezrównaną niezawodnością."
+release_note = "Zawiera TeamSpeak v3.13.9 spakowany ze źródeł"
+important = "Wymagana akceptacja Umowy Licencyjnej Użytkownika Końcowego (EULA) TeamSpeak 3 przed rozpoczęciem korzystania z oprogramowania."
+
+[ru-ru]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "Используйте кристально чистый звук для общения с товарищами по команде на разных платформах с уровнем безопасности военного класса, производительностью без задержек и непревзойденной надежностью."
+release_note = "Содержит TeamSpeak v3.13.9, собранный из исходного кода"
+important = "Обязательное принятие Лицензионного соглашения с конечным пользователем (EULA) TeamSpeak 3 перед использованием программного обеспечения."
+
+[tr-tr]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "Askeri düzeyde güvenlik, gecikmesiz performans ve eşsiz güvenilirlik ile farklı platformlardaki takım arkadaşlarınızla kristal netliğinde sesle iletişim kurun."
+release_note = "Kaynaktan paketlenmiş TeamSpeak v3.13.9 sürümünü içerir"
+important = "Yazılımı kullanmadan önce TeamSpeak 3 Son Kullanıcı Lisans Sözleşmesi'nin (EULA) kabul edilmesi zorunludur."
+
+[cs-cz]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "Využijte krystalicky čistý zvuk pro komunikaci se spoluhráči napříč platformami s zabezpečením vojenské úrovně, výkonem bez zpoždění a bezkonkurenční spolehlivostí."
+release_note = "Obsahuje TeamSpeak v3.13.9 zabalený ze zdrojového kódu"
+important = "Před použitím softwaru je vyžadován povinný souhlas s Koncovou licenční smlouvou (EULA) TeamSpeak 3."
+
+[pt-pt]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "Utilize um som nítido para comunicar com os seus colegas de equipa multiplataforma com segurança de nível militar, desempenho sem latência e uma fiabilidade inigualável."
+release_note = "Inclui TeamSpeak v3.13.9 empacotado a partir da fonte"
+important = "Aceitação obrigatória do Acordo de Licença de Utilizador Final (EULA) do TeamSpeak 3 antes da utilização do software."
+
+[nl-nl]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "Gebruik haarscherp geluid om cross-platform te communiceren met je teamgenoten met beveiliging van militaire klasse, vertragingsvrije prestaties en ongeëvenaarde betrouwbaarheid."
+release_note = "Bevat TeamSpeak v3.13.9 verpakt vanuit de broncode"
+important = "Verplichte aanvaarding van de TeamSpeak 3 Licentieovereenkomst voor Eindgebruikers (EULA) voorafgaand aan het gebruik van de software."
+
+[da-dk]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "Brug krystalklar lyd til at kommunikere med dine holdkammerater på tværs af platforme med sikkerhed i militærkvalitet, lagging-fri ydeevne og uovertruffen pålidelighed."
+release_note = "Indeholder TeamSpeak v3.13.9 pakket fra kilden"
+important = "Obligatorisk accept af TeamSpeak 3 Slutbrugerlicensaftale (EULA) før brug af softwaren."
+
+[nb-no]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "Bruk krystallklar lyd til å kommunisere med lagkameratene dine på tvers av plattformer med sikkerhet i militærklasse, forsinkelsesfri ytelse og uovertruffen pålitelighet."
+release_note = "Inneholder TeamSpeak v3.13.9 pakket fra kilde"
+important = "Obligatorisk godkjenning av sluttbrukerlisensavtalen (EULA) for TeamSpeak 3 før bruk av programvaren."
+
+[sv-se]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "Använd kristallklart ljud för att kommunicera med dina lagkamrater tvärs över plattformar med säkerhet av militär klass, lagfri prestanda och oslagbar tillförlitlighet."
+release_note = "Innehåller TeamSpeak v3.13.9 packad från källkod"
+important = "Obligatoriskt godkännande av TeamSpeak 3-slutanvändarlicensavtalet (EULA) innan du använder programvaran."
+
+[el-gr]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "Χρησιμοποιήστε κρυσταλλικό ήχο για να επικοινωνείτε με τους συμπαίκτες σας σε όλες τις πλατφόρμες με ασφάλεια στρατιωτικού επιπέδου, απόδοση χωρίς καθυστερήσεις και ασύγκριτη αξιοπιστία."
+release_note = "Περιλαμβάνει το TeamSpeak v3.13.9 πακεταρισμένο από τον πηγαίο κώδικα"
+important = "Υποχρεωτική αποδοχή της Συμφωνίας Άδειας Χρήσης التλικού Χρήστη (EULA) του TeamSpeak 3 πριν από τη χρήση του λογισμικού."
+
+[ro-ro]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "Folosiți un sunet clar ca cristalul pentru a comunica cu coechipierii de pe diverse platforme, cu securitate de nivel militar, performanță fără latență și o fiabilitate de neegalat."
+release_note = "Include TeamSpeak v3.13.9 împachetat din sursă"
+important = "Acceptarea obligatorie a Acordului de licență pentru utilizatorul final (EULA) TeamSpeak 3 înainte de utilizarea software-ului."
+
+[th-th]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "ใช้เสียงที่คมชัดใสเพื่อสื่อสารกับเพื่อนร่วมทีมข้ามแพลตฟอร์มด้วยความปลอดภัยระดับทางการทหาร ประสิทธิภาพที่ไม่มีการดีเลย์ และความน่าเชื่อถือที่ไม่มีใครเทียบได้"
+release_note = "รวม TeamSpeak v3.13.9 ที่แพ็กจากซอร์สโค้ด"
+important = "ต้องยอมรับข้อตกลงใบอนุญาตใช้งานสำหรับผู้ใช้ขั้นสุดท้าย (EULA) ของ TeamSpeak 3 ก่อนใช้งานซอฟต์แวร์"
+
+[vi-vn]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "Sử dụng âm thanh trong trẻo để giao tiếp với đồng đội trên nhiều nền tảng với độ bảo mật cấp quân sự, hiệu suất không giật lag và độ tin cậy vô song."
+release_note = "Bao gồm TeamSpeak v3.13.9 được đóng gói từ nguồn"
+important = "Bắt buộc chấp nhận Thỏa thuận Giấy phép Người dùng Cuối (EULA) TeamSpeak 3 trước khi sử dụng phần mềm."
+
+[id-id]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "Gunakan suara jernih untuk berkomunikasi dengan rekan tim Anda di berbagai platform dengan keamanan tingkat militer, performa bebas lag, serta keandalan yang tiada tanding."
+release_note = "Menyertakan TeamSpeak v3.13.9 yang dikemas dari sumber"
+important = "Penerimaan Perjanjian Lisensi Pengguna Akhir (EULA) TeamSpeak 3 wajib dilakukan sebelum menggunakan perangkat lunak."
+
+[ar-sa]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "استخدم صوتًا نقيًا للغاية للتواصل مع زملائك في الفريق عبر منصات متعددة بأمان عسكري وأداء خالي من التأخير وموثوقية لا مثيل لها."
+release_note = "يتضمن TeamSpeak v3.13.9 مجمعًا من المصدر"
+important = "الموافقة الإلزامية على اتفاقية ترخيص المستخدم النهائي (EULA) لـ TeamSpeak 3 قبل استخدام البرنامج."
+
+[he-il]
+name = "TeamSpeak3"
+auth = "TeamSpeak"
+descript = "השתמש בסאונד צלול כבדולח כדי לתקשר עם חבריך לקבוצה בין פלטפורמות שונות עם אבטחה ברמה צבאית, ביצועים ללא השהיות ואמינות ללא תחרות."
+release_note = "כולל TeamSpeak v3.13.9 שנארז ממקור"
+important = "חובה לאשר את הסכם רישיון משתמש הקצה (EULA) של TeamSpeak 3 לפני השימוש בתוכנה."
